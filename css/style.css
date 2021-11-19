@@ -116,7 +116,7 @@ html::-webkit-scrollbar-track {
 }
 
 html::-webkit-scrollbar-thumb {
-    background-color: #ad0000;
+    background-color: #c50b0b;
     border-radius: 48px;
 }
 
@@ -169,7 +169,7 @@ nav ul li a {
 
 nav ul li a.active,
 nav ul li a:hover {
-    background: #5c1010;
+    background: #c50b0b;
     color: white;
 }
 
@@ -190,7 +190,7 @@ nav img {
     border-radius: 48px;
     width: 4rem;
     height: 0.5rem;
-    background: #db0000;
+    background: #c50b0b;
     margin: 0.5rem auto 0;
     display: block;
 }
@@ -210,11 +210,11 @@ section:not(#header-section, .style-2) {
 section a {
     padding: 0.5rem 1rem;
     border-radius: 48px;
-    background: #c12828;
+    background: #c50b0b;
 }
 
 section a:hover {
-    background: #972020;
+    background: #c50b0b;
 }
 
 /*
@@ -403,11 +403,11 @@ section#contact-section form input[type=submit] {
     padding: 0.5rem 1rem;
     border-radius: 48px;
     border: none;
-    background: #c12828;
+    background: #c50b0b;
 }
 
 section#contact-section form input[type=submit]:hover {
-    background: #972020;
+    background: #c50b0b;
 }
 
 #contact-section div.messages {
@@ -426,7 +426,7 @@ section#contact-section form input[type=submit]:hover {
 }
 
 #contact-section div.messages .error {
-    background: red;
+    background: #c50b0b;
 }
 
 #contact-section div.messages .success {
@@ -464,7 +464,7 @@ footer ul {
 }
 
 footer a:hover {
-    color: #b13b3b;
+    color: #c50b0b;
 }
 
 footer ul li {
@@ -479,14 +479,14 @@ footer i.fa-chevron-right {
 
 footer div.social-networks a i {
     border-radius: 6px;
-    background: #972020;
+    background: #c50b0b;
     text-align: center;
     padding: 0.75rem 0.75rem;
 }
 
 footer div.social-networks a i:hover {
     color: white;
-    background: #8b1f1f;
+    background: #c50b0b;
 }
 
 footer div[class^="column-"] {
